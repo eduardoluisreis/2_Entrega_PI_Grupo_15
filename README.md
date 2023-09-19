@@ -8,7 +8,7 @@
 
 
 
-​															DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
+​															<center>DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
 
 
 
@@ -24,15 +24,15 @@
 
 
 
-##																						CENTRO UNIVERSITÁRIO SENAC
+##																					<center>	CENTRO UNIVERSITÁRIO SENAC
 
 
 
-###																							Disciplina: Projeto Integrador II
+###																						<center>	Disciplina: Projeto Integrador II
 
 
 
-​																								Ana Beatriz de Araújo
+​																							<center>	Ana Beatriz de Araújo
 
 ​																								Eduardo Luís Ferreira Reis
 
@@ -40,18 +40,11 @@
 
 ​																								Karoline Vitoria Silva Rabello
 
-​																								Larissa Lima de Andrade
+​																								Larissa Lima de Andrade 
+****
 
-
-
-
-
-
-
-
-
-<center>DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS</center>
-
+DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
+****
 
 
 ​																																				Projeto Integrador III – Fase 1 apresentado ao
