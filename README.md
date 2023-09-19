@@ -24,8 +24,6 @@
 
 
 
-
-
 <center>CENTRO UNIVERSITÁRIO SENAC</center>
 
 
