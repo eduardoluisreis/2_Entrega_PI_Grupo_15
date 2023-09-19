@@ -16,7 +16,7 @@
 
 
 
-<center>2022</center>
+<center>2023</center>
 
 
 
@@ -32,23 +32,19 @@
 
 
 
-<center>Ana Beatriz de Araújo</center>
+​																								Ana Beatriz de Araújo
+
+​																								Eduardo Luís Ferreira Reis
+
+​																								Gabriel Henrique Batista de Souza
+
+​																								Karoline Vitoria Silva Rabello
+
+​																								Larissa Lima de Andrade
 
 
 
-<center>Eduardo Luís Ferreira Reis</center>
 
-
-
-<center>Gabriel Henrique Batista de Souza</center>
-
-
-
-<center>Karoline Vitoria Silva Rabello</center>
-
-
-
-<center>Larissa Lima de Andrade</center>
 
 
 
@@ -72,7 +68,7 @@
 
 
 
-<center>2022</center>
+<center>2023</center>
 
 
 
