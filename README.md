@@ -45,21 +45,21 @@
 
 
 
-​																																				Projeto Integrador III – Fase 1 apresentado ao
+​																																				<p align="center">Projeto Integrador III – Fase 1 apresentado ao</p>
 
-​																																					Centro Universitário Senac, como exigência
+​																																					<p align="center">Centro Universitário Senac, como exigência</p>
 
-​																																													parcial para obtenção de
+​																																													<p align="center">parcial para obtenção de</p>
 
-​																																			aprovação na disciplina Projeto Integrado III, do
+​																																			<p align="center">aprovação na disciplina Projeto Integrado III, do</p>
 
-​																																									curso de Graduação Senac EAD.
+​																																									<p align="center">curso de Graduação Senac EAD.</p>
 
-<center>São Paulo</center>
+<p align="center">São Paulo</p>
 
 
 
-<center>2023</center>
+<p align="center">2023</p>
 
 
 
