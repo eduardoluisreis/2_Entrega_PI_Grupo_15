@@ -1,6 +1,6 @@
 <center>2_Entrega_PI_Grupo_15</center>
 
-# CENTRO UNIVERSITÁRIO SENAC
+<p align="center># CENTRO UNIVERSITÁRIO SENAC</p>
 
 
 
