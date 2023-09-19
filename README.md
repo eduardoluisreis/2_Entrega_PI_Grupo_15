@@ -4,19 +4,19 @@
 
 
 
-<center>Disciplina: Projeto Integrador III - Grupo 15</center>
+​																			Disciplina: Projeto Integrador III - Grupo 15
 
 
 
-<center>DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS</center>
+​															DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
 
 
 
-<center>São Paulo</center>
+​																											São Paulo
 
 
 
-<center>2023</center>
+​																												2023
 
 
 
@@ -24,11 +24,11 @@
 
 
 
-<center>CENTRO UNIVERSITÁRIO SENAC</center>
+##																						CENTRO UNIVERSITÁRIO SENAC
 
 
 
-<center>Disciplina: Projeto Integrador II</center>
+###																							Disciplina: Projeto Integrador II
 
 
 
