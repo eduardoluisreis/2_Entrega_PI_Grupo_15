@@ -23,11 +23,11 @@
 
 
 
-##																					<center>	CENTRO UNIVERSITÁRIO SENAC
+##																					<p align="center">	CENTRO UNIVERSITÁRIO SENAC</p>
 
 
 
-###																						<center>	Disciplina: Projeto Integrador II
+###																						<p align="center">	Disciplina: Projeto Integrador II</p>
 
 
 
@@ -42,8 +42,7 @@
 ​																								Larissa Lima de Andrade 
 ****
 
-DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
-****
+
 
 
 ​																																				Projeto Integrador III – Fase 1 apresentado ao
