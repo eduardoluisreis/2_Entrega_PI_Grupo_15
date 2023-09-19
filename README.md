@@ -1,22 +1,21 @@
-<center>2_Entrega_PI_Grupo_15</center>
 
 # <p align="center">CENTRO UNIVERSITÁRIO SENAC </p>
 
 
 
-​																			Disciplina: Projeto Integrador III - Grupo 15
+​																		<p align="center">	Disciplina: Projeto Integrador III - Grupo 15</p>
 
 
 
-​															<center>DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
+​															<p align="center">DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS</p>
 
 
 
-​																											São Paulo
+​																											<p align="center">São Paulo</p>
 
 
 
-​																												2023
+​																											<p align="center">	2023</p>
 
 
 
